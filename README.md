@@ -8,20 +8,20 @@ Here are the visualizations I created for my final three projects in my QSS 17 D
 I hope this helps visualize some aspects of the current pandemic. 
 
 Best,
+
 Jordan
 
 
 
 ## Cases of Coronavirus over Time by County
 ![alt text](https://github.com/jordantsanz/COVID-19-Data-Visualizations/blob/master/CasesOverTimeByCounty.gif "Cases Over Time By County")
-
 This map visualizes the number of cumulative, confirmed cases of COVID-19 in each United States county from January to May. Created in RStudio with ggplot and gganimate, using data from the New York Times. 
 
 ## Countries Ranked by Confirmed Cases of COVID-19
 
 ![alt text](https://github.com/jordantsanz/COVID-19-Data-Visualizations/blob/master/RankedConfirmedCasesByCountryFinal.gif "Country Gif")
 
-This animation ranks countries and the geographical regions of China by the number of cumulaitive, confirmed cases of COVID-19 over time. Created in RStudio with ggplot and gganimate, using data from the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+This animation ranks countries and the geographical regions of China by the number of cumulaitive, confirmed cases of COVID-19 over time. Created in RStudio with ggplot and gganimate, using data from the COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University.
 
 ## Offensive Language: Americans Saying 'Chinese Virus' over Coronavirus
 
